@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">camera_test</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="button_log_str">button</string>
+	<string name="textview_xc_str">textview</string>
+</resources>

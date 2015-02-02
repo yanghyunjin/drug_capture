@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+	<item android:drawable="@drawable/runny_nose_0" android:duration="400" />
+	<item android:drawable="@drawable/runny_nose_1" android:duration="400" />
+	<item android:drawable="@drawable/runny_nose_2" android:duration="400" />
+	<item android:drawable="@drawable/runny_nose_3" android:duration="400" />
+	<item android:drawable="@drawable/runny_nose_4" android:duration="400" />
+	<item android:drawable="@drawable/runny_nose_5" android:duration="400" />
+	<item android:drawable="@drawable/runny_nose_6" android:duration="400" />
+	<item android:drawable="@drawable/runny_nose_7" android:duration="400" />
+	<item android:drawable="@drawable/runny_nose_8" android:duration="400" />
+	<item android:drawable="@drawable/runny_nose_9" android:duration="400" />
+	<item android:drawable="@drawable/runny_nose_10" android:duration="400" />
+	<item android:drawable="@drawable/runny_nose_11" android:duration="400" />  
+</animation-list>

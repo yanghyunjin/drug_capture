@@ -1,9 +1,0 @@
-﻿빌드 시작: 2015-01-28 오전 1:10:12
-     1>2 노드의 "C:\Users\ssm\Documents\카카오톡 받은 파일\open cv 개발환경\샘플프로젝트\test2\test2.vcxproj" 프로젝트(build 대상)입니다.
-       프로젝트 파일에 이 버전의 MSBuild에서 지원되지 않는 ToolsVersion="12.0"이(가) 들어 있습니다. 프로젝트에 ToolsVersion="4.0"이 들어 있는 것으로 간주합니다.
-     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.Targets(518,5): error MSB8008: 지정된 플랫폼 도구 집합(v120)이 설치되지 않았거나 올바르지 않습니다. 지원되는 플랫폼 도구 집합 값이 선택되었는지 확인하십시오.
-     1>"C:\Users\ssm\Documents\카카오톡 받은 파일\open cv 개발환경\샘플프로젝트\test2\test2.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
-
-빌드하지 못했습니다.
-
-경과 시간: 00:00:00.00
