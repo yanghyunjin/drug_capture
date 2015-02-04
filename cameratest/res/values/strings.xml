@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">camera_test</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="button_log_str">button</string>
+	<string name="textview_xc_str">textview</string>
+	<string name="spinnerPrompt1">제형을 선택하세요</string>
+	<string name="spinnerPrompt2">모양을 선택하세요</string>
+	<string name="spinnerPrompt3">색상을 선택하세요</string>
+	<string name="spinnerPrompt4">분할선을 선택하세요</string>
+</resources>
