@@ -83,7 +83,7 @@ public class CameraActivity extends Activity {
             void onAnimationEnd() {
             	aniF = true;
             	if(capF) {
-        				goFinish();
+        				//goFinish();
         			}
             }
         };
@@ -152,7 +152,7 @@ public class CameraActivity extends Activity {
 		@Override
 		public void run() {
 			int count = 0;
-			while (count < 3) {
+			while (count < 1) {
 				String mFileName = "_" + count + ".jpg";
 				mPreview.getPicture(context, mFileName);
 				count++;
@@ -165,7 +165,7 @@ public class CameraActivity extends Activity {
 			}
 			capF = true;
 			if(aniF) {
-				goFinish();
+				//goFinish();
 			}
 			
 		}
