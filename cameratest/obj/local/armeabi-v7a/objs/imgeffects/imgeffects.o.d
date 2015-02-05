@@ -1,5 +1,5 @@
-/Users/yanghyeonjin/Documents/drug_capture/cameratest/obj/local/armeabi-v7a/objs/imgeffects/imgeffects.o: \
- /Users/yanghyeonjin/Documents/drug_capture/cameratest/jni/imgeffects.cpp \
+/Users/yanghyeonjin/Downloads/drug_capture-master/cameratest_150205/obj/local/armeabi-v7a/objs/imgeffects/imgeffects.o: \
+ /Users/yanghyeonjin/Downloads/drug_capture-master/cameratest_150205/jni/imgeffects.cpp \
  /Users/yanghyeonjin/Documents/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/jni.h \
  /Users/yanghyeonjin/Documents/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs.h \
  /Users/yanghyeonjin/Documents/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h \

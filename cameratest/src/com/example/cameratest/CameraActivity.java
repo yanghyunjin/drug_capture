@@ -152,7 +152,7 @@ public class CameraActivity extends Activity {
 		@Override
 		public void run() {
 			int count = 0;
-			while (count < 1) {
+			while (count < 3) {
 				String mFileName = "_" + count + ".jpg";
 				mPreview.getPicture(context, mFileName);
 				count++;
