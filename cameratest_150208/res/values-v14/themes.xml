@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="DeepPurple" parent="@style/_DeepPurple"/>
+
+  <style name="_DeepPurple" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    <item name="android:editTextStyle">@style/EditTextDeepPurple</item>
+
+    <item name="android:textColorHighlight">#999933cc</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewDeepPurple</item>
+
+    <item name="android:checkboxStyle">@style/CheckBoxDeepPurple</item>
+
+    <item name="android:radioButtonStyle">@style/RadioButtonDeepPurple</item>
+
+    <item name="android:buttonStyle">@style/ButtonDeepPurple</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonDeepPurple</item>
+
+    <item name="android:spinnerStyle">@style/SpinnerDeepPurple</item>
+
+    <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemDeepPurple</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarDeepPurple</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarDeepPurple</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBarDeepPurple</item>
+
+    <item name="android:ratingBarStyleIndicator">@style/RatingBarBigDeepPurple</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallDeepPurple</item>
+
+    <item name="android:buttonStyleToggle">@style/ToggleDeepPurple</item>
+
+    <item name="android:listViewStyle">@style/ListViewDeepPurple</item>
+
+    <item name="android:listViewWhiteStyle">@style/ListViewDeepPurple.White</item>
+
+    <item name="android:spinnerItemStyle">@style/SpinnerItemDeepPurple</item>
+    
+    <item name="android:actionBarItemBackground">@drawable/selectable_background_actionbar</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Actionbar</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Actionbar</item>
+        <item name="android:actionBarTabStyle">@style/ActionBarTabStyle.Actionbar</item>
+        <item name="android:actionDropDownStyle">@style/DropDownNav.Actionbar</item>
+        <item name="android:actionBarStyle">@style/ActionBar.Solid.Actionbar</item>
+        <item name="android:actionModeBackground">@drawable/cab_background_top_actionbar</item>
+        <item name="android:actionModeSplitBackground">@drawable/cab_background_bottom_actionbar</item>
+        <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Actionbar</item>
+        
+                <!-- Light.DarkActionBar specific -->
+        <item name="android:actionBarWidgetTheme">@style/Theme.Actionbar.Widget</item>
+
+
+  </style>
+
+</resources>

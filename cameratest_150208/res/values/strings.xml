@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">알랴줌</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="button_log_str">button</string>
+	<string name="textview_xc_str">textview</string>
+	<string name="spinnerPrompt1">제형을 선택하세요</string>
+	<string name="spinnerPrompt2">모양을 선택하세요</string>
+	<string name="spinnerPrompt3">색상을 선택하세요</string>
+	<string name="spinnerPrompt4">분할선을 선택하세요</string>
+	
+	<string name="img">img</string>
+	
+	
+	<!-- textSearch -->
+	<string name="detailSearch">상세 검색</string>
+	<string name="mark">문자</string>
+	<string name="ushape">제형</string>
+	<string name="shape">모양</string>
+	<string name="color">색상</string>
+	<string name="split">분할선</string>
+	<string name="search">검색</string>
+	
+	<!-- detail -->
+	<string name="drugImg">Durg Image</string>
+	
+	<!-- table -->
+	<string name="d_name">제품명</string>
+	<string name="d_company">제조/수입</string>
+	<string name="d_color">색상</string>
+	<string name="d_shape">모양</string>
+	<string name="d_ushape">제형</string>
+	<string name="d_mark">식별표기</string>
+	<string name="d_split">분할선</string>
+	<string name="d_safety">안전성</string>
+	<string name="d_incredient">성분명</string>
+	<string name="d_effect">효능/효과</string>
+	
+</resources>

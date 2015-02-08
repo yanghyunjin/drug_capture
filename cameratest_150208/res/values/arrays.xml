@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnerArray1">
+        <item></item>
+        <item>정제</item>
+        <item>경질캡슐</item>
+        <item>연질캡슐</item>
+    </string-array>
+    
+    <string-array name="spinnerArray2">
+        <item></item>
+        <item>원형</item>
+        <item>타원형</item>
+        <item>반원형</item>
+        <item>삼각형</item>
+        <item>사각형</item>
+        <item>마름모형</item>
+        <item>장방형</item>
+        <item>오각형</item>
+        <item>육각형</item>
+        <item>팔각형</item>
+	</string-array>
+	
+    <string-array name="spinnerArray3">
+        <item></item>
+        <item>하양</item>
+        <item>노랑</item>
+        <item>주황</item>
+        <item>분홍</item>
+        <item>빨강</item>
+        <item>갈색</item>
+        <item>연두</item>
+        <item>초록</item>
+        <item>청록</item>
+        <item>파랑</item>
+        <item>남색</item>
+        <item>자주</item>
+        <item>보라</item>
+        <item>회색</item>
+        <item>검정</item>
+        <item>투명</item>
+	</string-array>
+    
+    <string-array name="spinnerArray4">
+        <item>없음</item>
+        <item>-</item>
+        <item>+</item>
+	</string-array>
+        
+</resources>

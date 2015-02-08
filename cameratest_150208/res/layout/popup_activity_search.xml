@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/popupSearchActivity"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    android:background="#C0C0C0"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="30dp"
+        android:baselineAligned="true"
+        android:orientation="vertical"
+        android:layout_marginBottom="80dp" >
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:background="#8B008B"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/mark"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+            
+<!-- edittext1 -->
+            <EditText
+                android:id="@+id/popup_mark" 
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:ems="10" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/TextView01"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:background="#8B008B"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/ushape"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+<!-- Spinner01-->
+            <Spinner
+                android:id="@+id/popup_ushape"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:prompt="@string/ushape"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/TextView02"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:background="#8B008B"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/shape"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+<!-- Spinner02-->
+            <Spinner
+                android:id="@+id/popup_shape"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:prompt="@string/shape"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/TextView03"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:background="#8B008B"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/color"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+<!-- Spinner03-->
+            <Spinner
+                android:id="@+id/popup_color"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:prompt="@string/color"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" >
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:background="#8B008B"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/split"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+<!-- Spinner04-->
+            <Spinner
+                android:id="@+id/popup_split"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:prompt="@string/split"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true" />
+        </RelativeLayout>
+    </LinearLayout>
+<!-- button1-->
+    <Button
+        android:id="@+id/popup_btn"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_marginBottom="25dp"
+        android:text="@string/search" />
+
+</FrameLayout>
